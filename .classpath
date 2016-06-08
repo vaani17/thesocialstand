@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="com.google.appengine.eclipse.core.GAE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Vaani/New folder (10)/guava-14.0.1.jar.zip"/>
+	<classpathentry kind="lib" path="C:/Vaani/New folder (10)/java-json.jar"/>
+	<classpathentry kind="lib" path="C:/Vaani/New folder (10)/jsoup-1.8.3.jar"/>
+	<classpathentry kind="lib" path="C:/Vaani/New folder (10)/objectify-5.0.1.jar"/>
+	<classpathentry kind="output" path="war/WEB-INF/classes"/>
+</classpath>

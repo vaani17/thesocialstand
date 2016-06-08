@@ -1,0 +1,74 @@
+.trans{
+	    background: rgba(255, 255, 255, 0.3);
+}
+.bigtext{
+	text-align: center;
+	font-size: 80px;
+	padding: 10px;
+	color: #3F475C;
+	font-family: 'Poiret One', cursive;
+	border-radius: 0px;
+}
+.medtext{
+	text-align: center;
+	font-size: 40px;
+	padding: 5px;
+	color: #3F475C;
+	font-family: 'Poiret One', cursive;
+	border-radius: 0px;
+}
+.smalltext{
+	text-align: center;
+	font-size: 25px;
+	padding: 5px;
+	color: #FFFFFF;
+	font-family: 'Poiret One', cursive;
+	border-radius: 0px;
+}
+body{
+	background-image:"mix.jpg";
+	margin: 0px;
+	background-size: cover;
+}
+.up
+{
+	text-align: right;
+	color: #ffffff;
+
+}
+.features{
+	background: rgba(255, 255, 255, 0.3);
+	border-radius: 10px;
+	margin: 0px;
+	padding: 0px;
+}
+.row{
+	margin: 0px;
+}
+#emptyleft,#emptyright{
+	margin: 0px;
+}
+
+
+.transbtn {
+    background: none;
+	padding: 12px 35px;
+	border: 2px solid #ffffff;
+    color: #3F475C;
+    
+    transition: all .5s;
+
+}
+
+
+.transbtn:hover {
+    color: #428bca;
+    background-color: #ffffff;
+    border: 2px solid #428bca;
+    text-decoration: none;
+    cursor: pointer;
+}
+.music:hover{
+	
+}
+
